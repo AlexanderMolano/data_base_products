@@ -20,6 +20,8 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+theme: minimal
+
 jobs:
   # Build job
   build:
